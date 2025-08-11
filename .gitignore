@@ -1,0 +1,5 @@
+/output
+/examples
+/temp_epub
+*.epub
+*.ipynb
